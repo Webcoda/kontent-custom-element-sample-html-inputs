@@ -1,4 +1,4 @@
-# HTML Inputs Custom Element for Kentico Kontent
+# HTML Inputs
 
 This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kentico Kontent](https://kontent.ai) that allows you to define a group of HTML inputs that your editors can fill out one or more times. You can combine any number of HTML5 inputs into a single element -> text, textarea, color, date, time, number, radio, checkbox, password and range.
 
@@ -200,6 +200,3 @@ Saved value:
   }
 ]
 ```
-
-## Contributors
-Originally contributed by [@hzik](https://github.com/hzik/)
